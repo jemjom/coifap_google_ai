@@ -1,0 +1,8 @@
+
+{
+  "name": "BarberQ - Gestion de Salon de Coiffure",
+  "description": "Une application complète de gestion de file d'attente et de réservations pour salons de coiffure avec calcul du temps d'attente en temps réel et accès par QR Code.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
